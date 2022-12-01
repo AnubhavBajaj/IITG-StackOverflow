@@ -121,14 +121,6 @@ To run this project, you will need to add the following environment variables to
  - [Dice Bear](https://avatars.dicebear.com/)
  - [React Syntax Highlighter]()
 
-## Authors
-
-- [Prabhat Rao](https://www.github.com/joat28)
-- [Shashank Raj](https://github.com/srj1107)
-- [Tanmay Shreshth](https://github.com/TanmayS26)
-- [Shantanu Pathak](https://github.com/shantanu689)
-- [Kautilya Pandey](https://github.com/kpx3)
-
 
 
 **Free Software, Hell Yeah!**
